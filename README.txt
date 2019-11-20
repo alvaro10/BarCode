@@ -1,4 +1,4 @@
-Los dispositivos Rapipost necesitan para agregar apk un sowtware, el cual se instala en la pc
+Los dispositivos necesitan para agregar apk un sowtware, el cual se instala en la pc
 	1.	Descargar https://drive.google.com/open?id=1dwJ2jOI_TjwmJU7SB6RH0udXazYkD_b-
 
 Una vez instalado el software descargar la apk de Google Play Service para Android Lollipop version 5
